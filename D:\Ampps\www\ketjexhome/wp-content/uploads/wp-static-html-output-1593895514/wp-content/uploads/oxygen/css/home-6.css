@@ -1,0 +1,5 @@
+#div_block-1-16 {justify-content: center;min-height: 100vh;background-color: #ededed;flex-direction: column;display: flex;align-items: center;padding-top: 30px;padding-left: 30px;padding-right: 30px;padding-bottom: 30px;}
+@media (max-width:767px) {#div_block-1-16 {flex-direction: column;display: flex;}}
+#headline-13-16 {transform: rotate(0deg);margin-top: 25px;margin-left: 25px;margin-right: 25px;margin-bottom: 25px;color: #474747;font-family: "Baloo Thambi 2";}
+@media (max-width:767px) {#headline-13-16 {font-size: 30px;}}
+#_rich_text-43-16 {max-width: 600px;font-size: 19px;font-family: "Open Sans";}
